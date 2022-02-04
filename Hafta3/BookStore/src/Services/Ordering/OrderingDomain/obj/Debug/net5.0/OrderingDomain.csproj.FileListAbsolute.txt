@@ -1,0 +1,15 @@
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\bin\Debug\net5.0\OrderingDomain.deps.json
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\bin\Debug\net5.0\OrderingDomain.dll
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\bin\Debug\net5.0\ref\OrderingDomain.dll
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\bin\Debug\net5.0\OrderingDomain.pdb
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.csproj.AssemblyReference.cache
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.AssemblyInfoInputs.cache
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.AssemblyInfo.cs
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.csproj.CoreCompileInputs.cache
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.dll
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\ref\OrderingDomain.dll
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.pdb
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\bin\Debug\net5.0\OrderingDomain.runtimeconfig.json
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\bin\Debug\net5.0\OrderingDomain.runtimeconfig.dev.json
+C:\Users\YUSUF\source\repos\BookStore\src\Services\Ordering\OrderingDomain\obj\Debug\net5.0\OrderingDomain.genruntimeconfig.cache
